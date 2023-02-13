@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fd6f06-ed67-4f9a-8a81-e9f3deac8787" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/regression/cars.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regression/cars.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food_classification/food_classification1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/datascience.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datascience.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification/bank-churn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/classification/bank-churn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food_classification/food_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/food_classification/food_classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_insurance/health-insurance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/health_insurance/health-insurance.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Programmieren/schule/pos-datascience",
+    "last_opened_file_path": "C:/Users/Flo/HTBLuVA St. Pölten/Christoph Schreiber - dsai",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -34,6 +47,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
